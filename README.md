@@ -4,9 +4,10 @@ I'm **Ramadan Kfrawy**, a passionate Flutter developer who loves building beauti
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Dart, JavaScript
+- **Languages:** Dart, JavaScript, C++
 - **Framework:** Flutter
-- **Databases:** Firebase, SQLite
+- **Frontend:** HTML, CSS, JavaScript
+- **Databases:** Firebase
 - **State Management:** Provider, Riverpod, Bloc
 - **Tools:** Git, VS Code, Android Studio
 
@@ -21,8 +22,3 @@ I'm **Ramadan Kfrawy**, a passionate Flutter developer who loves building beauti
 - [Email](ramadanelkfrawy03@gmail.com)
 - [Instagram](https://www.instagram.com/ramadankfrawy0)
 
-
-<!---
-ramadankfrawy0/ramadankfrawy0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
