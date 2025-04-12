@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ramadan El-Kfrawy</h1>
 <h3 align="center">Flutter Developer | Crafting Modern and Scalable Mobile Apps</h3>
 
-- 🌱 Currently Exploring **Flutter | Firebase | Riverpod | Clean Architecture**
 
-- 👨‍💻 Check Out My Projects At [https://github.com/ramadankfrawy0](https://github.com/ramadankfrawy0)
+- 🌱 Currently Exploring: **Flutter | Firebase | Riverpod | Clean Architecture**
 
-- 📝 Occasionally Writing At [Coming Soon](Coming Soon)
+- 👨‍💻 Check Out My Projects At:  [https://github.com/ramadankfrawy0](https://github.com/ramadankfrawy0)
 
-- 💬 Feel Free to Ask Me About **Mobile App Development with Flutter & Dart**
+- 📝 Occasionally Writing At:  Coming Soon
 
-- 📫 How You Can Reach Me **ramadanelkfrawy03@gmail.com**
+- 💬 Feel Free to Ask Me About:  **Mobile App Development with Flutter & Dart**
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
+- 📫 How You Can Reach Me:  **ramadanelkfrawy03@gmail.com**
+
+- 📄 Know about my experiences:  Coming Soon
 
 - ⚡ Fun Fact About Me **Turning Coffee Into Beautiful Mobile Apps!**
 
